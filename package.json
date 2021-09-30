@@ -1,0 +1,30 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heaulin/Team-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heaulin/Team-Generator/issues"
+  },
+  "homepage": "https://github.com/Heaulin/Team-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  },
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
